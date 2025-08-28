@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ho An Loc  
 
-👨🏼‍💻 AI Engineer in Training @ **FPT University Da Nang**  
+👨🏼‍💻 AI Student & Application Developer @ **FPT University Da Nang**  
 🔭 Currently exploring **Multimodal Generation** & **Chatbot RAG** for real-world applications  
 💻 Also developing **Web Applications with ReactJS**  
 📱 Researching **Mobile Applications** (iOS & Android)  
