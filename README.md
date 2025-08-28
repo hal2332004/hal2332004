@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm HAL  
 
-👨🏼‍💻 AI Engineer Student @ **FPT University Da Nang**  
+👨🏼‍💻 AI Engineer in Training @ **FPT University Da Nang**  
 🔭 Currently exploring **Multimodal Generation** & **Chatbot RAG** for real-world applications  
 💻 Also developing **Web Applications with ReactJS**  
 📱 Researching **Mobile Applications** (iOS & Android)  
