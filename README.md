@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm HAL  
+# 👋 Hi there, I'm Ho An Loc  
 
 👨🏼‍💻 AI Engineer in Training @ **FPT University Da Nang**  
 🔭 Currently exploring **Multimodal Generation** & **Chatbot RAG** for real-world applications  
