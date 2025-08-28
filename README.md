@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm HAL  
 
-<!--
-**hal2332004/hal2332004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 AI Engineer Student @ **FPT University Da Nang**  
+🔭 Currently exploring **Multimodal Generation** & **Chatbot RAG** for real-world applications  
+💻 Also developing **Web Applications with ReactJS**  
+📱 Researching **Mobile Applications** (iOS & Android)  
+🚀 Most of my projects are **open-sourced** here on GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+- Passionate about **AI, NLP, and Computer Vision**  
+- Enjoy building **practical AI systems** that can be deployed & scaled  
+- Expanding into **Web & Mobile Development** for end-to-end solutions  
+- Always learning and sharing knowledge through **research & coding**
+  
+---
+
+## 📫 How to Reach Me  
+🌐 Portfolio: [porfolio-green-iota.vercel.app](https://porfolio-green-iota.vercel.app/)  
+💻 GitHub: [hal2332004](https://github.com/hal2332004)  
+📘 Facebook: [hal2332004](https://www.facebook.com/hal2332004/)  
+
+---
+
+⭐️ *“AI isn’t just about intelligence – it’s about making technology feel human.”*  
