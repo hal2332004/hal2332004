@@ -4,7 +4,6 @@
 🔭 Currently exploring **Multimodal Generation** & **Chatbot RAG** for real-world applications  
 💻 Also developing **Web Applications with ReactJS**  
 📱 Researching **Mobile Applications** (iOS & Android)  
-🚀 Most of my projects are **open-sourced** here on GitHub  
 
 ---
 
