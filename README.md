@@ -16,7 +16,6 @@
 ---
 
 ## 📫 How to Reach Me  
-🌐 Portfolio: [porfolio-green-iota.vercel.app](https://porfolio-green-iota.vercel.app/)  
 💻 GitHub: [hal2332004](https://github.com/hal2332004)  
 📘 Facebook: [hal2332004](https://www.facebook.com/hal2332004/)  
 
