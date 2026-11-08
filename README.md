@@ -11,6 +11,7 @@
 
   <!-- Quick Badges -->
   <p align="center">
+    <a href="./2026_AI_Artificial_Intelligence.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF_CV-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
     <a href="mailto:th0935057511@gmail.com"><img src="https://img.shields.io/badge/Email-th0935057511%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/hal2332004"><img src="https://img.shields.io/badge/GitHub-hal2332004-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://img.shields.io/badge/Location-Da_Nang%2C_Vietnam-009688?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
@@ -146,6 +147,11 @@ I am an **AI Engineer** with hands-on experience in **Computer Vision, Edge AI, 
 - **Architecture Innovation**: Designed **ResNet18-Lite**, integrating Depthwise Separable Convolutions, CBAM attention mechanisms, and Knowledge Distillation.
 - **Remarkable Compression**: Slashed parameters from **11.18M down to 0.82M** — a **92.64% parameter reduction**.
 - **Accuracy Boost**: Achieved **97.78% average classification accuracy** across 6 rice seed varieties, **outperforming the baseline ResNet18 (96.84%)** via combined loss optimization.
+
+| Model Variant | Parameters | Parameter Delta | Top Accuracy (6 Varieties) | Key Architectures |
+| :--- | :---: | :---: | :---: | :--- |
+| **ResNet18 (Baseline)** | 11.18 M | Baseline (0%) | 96.84% | Standard Residual Blocks |
+| **ResNet18-Lite (Ours)** | **0.82 M** | **-92.64%** 🚀 | **97.78% (+0.94%)** 🎯 | KD + Depthwise Conv + CBAM Attention |
 
 ---
 
