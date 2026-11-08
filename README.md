@@ -16,7 +16,6 @@
     <a href="https://github.com/hal2332004"><img src="https://img.shields.io/badge/GitHub-hal2332004-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://img.shields.io/badge/Location-Da_Nang%2C_Vietnam-009688?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Degree-B.S._Artificial_Intelligence-blue?style=flat-square&logo=fpt&logoColor=white" alt="Degree" />
-    <img src="https://img.shields.io/badge/GPA-3.24%20%2F%204.0-success?style=flat-square" alt="GPA" />
   </p>
 
 </div>
@@ -182,7 +181,7 @@ I am an **AI Engineer** with hands-on experience in **Computer Vision, Edge AI, 
 ### 💼 Professional Experience & Education
 
 ```
-  2022  ───🎓 FPT University (B.S. in Artificial Intelligence | GPA: 3.24/4.0)
+  2022  ───🎓 FPT University (B.S. in Artificial Intelligence)
              │
   2025  ───🏢 FPT Software (AI Engineer Intern - Computer Vision & OCR)
              │
