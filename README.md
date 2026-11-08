@@ -121,89 +121,16 @@ I am an **AI Engineer** with hands-on experience in **Computer Vision, Edge AI, 
 
 ---
 
-### 🔬 Featured Projects & Research
-
-#### 1. 🚦 [Real-Time Traffic Video Super-Resolution on Edge Devices](https://github.com/hal2332004)
-> **Stack**: `Python` • `PyTorch` • `TensorRT` • `NVIDIA Jetson Orin NX` • `RTSP` • `Docker`
-- **Data Engineering**: Built a benchmark dataset of **5,857 LR/HR image pairs** from Da Nang traffic cameras using a custom degradation pipeline simulating real webcam noise and compression artifacts.
-- **Model Evaluation**: Benchmarked 8 state-of-the-art Super-Resolution architectures evaluating **PSNR, SSIM, LPIPS**, inference latency, and VRAM utilization.
-- **Edge Acceleration**: Quantized and converted models to **TensorRT FP16/INT8** on **NVIDIA Jetson Orin NX**, achieving real-time enhancement.
-- **Production Pipeline**: Containerized full stack supporting single-image enhancement, offline batch video processing, and **live RTSP webcam stream inference**.
-
----
-
-#### 2. 🎙️ [End-to-End Vietnamese Voice Chatbot with Local LLM & RAG](https://github.com/hal2332004)
-> **Stack**: `FastAPI` • `llama.cpp` • `Whisper` • `LangChain` • `Qdrant` • `XTTS` • `Docker`
-- **Speech-to-Speech Architecture**: Engineered an end-to-end voice conversational system combining Automatic Speech Recognition (ASR), vector search, LLMs, and Text-to-Speech (TTS).
-- **Efficient Inference**: Deployed local LLMs on **CPU using llama.cpp** for responsive, low-latency spoken conversations without GPU dependencies.
-- **Knowledge Retrieval**: Integrated **Qdrant vector database** with `sentence-transformers` for precise context grounding and hallucination reduction.
-- **Asynchronous Serving**: Built asynchronous RESTful APIs using FastAPI and containerized with Docker for turnkey deployment.
-
----
-
-#### 3. 🌾 [Efficient Rice Seed Classification via Knowledge Distillation (ResNet18-Lite)](https://github.com/hal2332004)
-> **Stack**: `PyTorch` • `Knowledge Distillation` • `Depthwise Separable Conv` • `CBAM Attention`
-- **Architecture Innovation**: Designed **ResNet18-Lite**, integrating Depthwise Separable Convolutions, CBAM attention mechanisms, and Knowledge Distillation.
-- **Remarkable Compression**: Slashed parameters from **11.18M down to 0.82M** — a **92.64% parameter reduction**.
-- **Accuracy Boost**: Achieved **97.78% average classification accuracy** across 6 rice seed varieties, **outperforming the baseline ResNet18 (96.84%)** via combined loss optimization.
-
-| Model Variant | Parameters | Parameter Delta | Top Accuracy (6 Varieties) | Key Architectures |
-| :--- | :---: | :---: | :---: | :--- |
-| **ResNet18 (Baseline)** | 11.18 M | Baseline (0%) | 96.84% | Standard Residual Blocks |
-| **ResNet18-Lite (Ours)** | **0.82 M** | **-92.64%** 🚀 | **97.78% (+0.94%)** 🎯 | KD + Depthwise Conv + CBAM Attention |
-
----
-
-#### 4. 🐾 [Flappie Smart Pet Doors: Lens Condition Edge AI](https://github.com/hal2332004)
-> **Stack**: `TensorFlow/Keras` • `MobileNetV2` • `ONNX Runtime` • `RKNN Toolkit2` • `Rockchip RK3566 NPU`
-- **Embedded Vision Pipeline**: Developed a computer vision model for smart pet doors classifying fisheye camera inputs into 3 states: *clean*, *dirty*, and *occlusion*.
-- **Nighttime Enhancement**: Implemented CLAHE enhancement, grayscale/infrared augmentation, and automated data labeling pipeline.
-- **High Accuracy & Edge Export**: Achieved **98.14% test accuracy** with MobileNetV2; converted model to **ONNX** and quantized for hardware-accelerated inference on the **Rockchip RK3566 NPU**.
-
----
-
-#### 5. 📑 [Deed: Intelligent Document Understanding & OCR Pipeline](https://github.com/hal2332004)
-> **Stack**: `PaddleOCR` • `PyTorch` • `OpenCV` • `FastAPI` • `Docker`
-- **Document AI System**: Built an enterprise information extraction pipeline for administrative and legal records (land certificates, housing documentation, tax papers).
-- **Image Preprocessing**: Engineered robust enhancement filters overcoming low-resolution, warped, and low-contrast scanned documents.
-- **Structured Extraction**: Extracted key-value pairs into structured JSON and deployed high-throughput inference microservices with FastAPI & Docker.
-
----
-
-#### 6. 🍃 [Enhanced Plant Leaf Disease Classification](https://github.com/hal2332004)
-> **Stack**: `OpenCV` • `SIFT-BOW` • `Feature Engineering` • `Scikit-Learn` • `SVM`
-- **Synthesized Feature Framework**: Merged handcrafted color, texture, and shape descriptors with **SIFT Bag-of-Words (BoW)**.
-- **Feature Selection**: Reduced dimensionality by **78.2% (from 316 to 69 features)** using Random Forest selection to maximize computational throughput.
-- **Performance**: Reached **98.51% classification accuracy** using Support Vector Machines (SVM) with 10-fold cross-validation on the PlantVillage dataset.
-
----
-
-### 💼 Professional Experience & Education
-
-```
-  2022  ───🎓 FPT University (B.S. in Artificial Intelligence)
-             │
-  2025  ───🏢 FPT Software (AI Engineer Intern - Computer Vision & OCR)
-             │
-  2025  ───🌐 FlappieDoors (Remote AI Engineer - Edge AI & Rockchip NPU)
-             │
-  2025  ───🤖 AI Automation & Chatbots (n8n, LLM RAG, Multi-Platform APIs)
-             │
-  2026  ───💻 Software Engineer (React, TypeScript, Supabase, Linux VPS)
-```
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hal2332004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="Ho An Loc's GitHub Stats" />
+        <img height="165em" src="https://github-stats-extended.vercel.app/api?username=hal2332004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="Ho An Loc's GitHub Stats" />
       </td>
       <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hal2332004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
+        <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hal2332004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
       </td>
     </tr>
   </table>
